@@ -33,7 +33,7 @@ function App() {
   return (
         <div style={{backgroundImage: `url(${backgroundImageForBreakfast})`, backgroundRepeat: 'no-repeat',
           width:'99vw', height:"99vh", backgroundSize:'cover', paddingTop: '80px'}}>
-          <h1 style={{ textAlign: "center", color: '#32e1ed'}}>What I Suggest for you today?</h1>
+          <h1 style={{ textAlign: "center", color: '#32e1ed'}}>What I Suggest for you today</h1>
           <div style={{ display:"flex", justifyContent: "center", height: '100%' }}>
               <div style={{ marginTop: '10em' }}>
                   <div style={{ marginBottom: 10, }}>
